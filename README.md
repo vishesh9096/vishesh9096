@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vishesh9096
-- 👀 I’m interested in Webdevelopement,problem solving.
-- 🌱 I’m currently learning c,python.
-- 💞️ I’m looking to collaborate on django projects
+- 👋 Hi, I’m Vishesh Gatha
+- 👀 I’m interested in React Native App Development,Webdevelopement,problem solving.
+- 🌱 I’m currently learning React,React Native, Node, Express and MongoDB.
+- 💞️ I’m looking to collaborate on React Native projects
 - 📫 How to reach me email gathavishesh@gmail.com
 
 <!---
